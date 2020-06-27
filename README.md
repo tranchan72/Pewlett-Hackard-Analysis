@@ -5,7 +5,7 @@
   * Gather employees who are currently employed and approaching retirement age. Group them by title and count how many of them.
   * Gather employees who are meeting mentoring program eligibility.
   * Draw ERD for table relationship. 
-  
+  !(QuickDBD-export.png)
   * Using pdAdmin SQL to connect data tables.
   * A lot of Google-ful has been employed to connect the tables.
   
